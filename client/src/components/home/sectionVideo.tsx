@@ -2,7 +2,7 @@ import { IoMdPlay } from "react-icons/io";
 import { SlArrowRight } from "react-icons/sl";
 export const SectionVideo = () => {
   return (
-    <div className="bg-neutral-300 text-white w-full h-[795px] flex flex-row gap-3 items-center justify-center font-roboto">
+    <div className="bg-neutral-300 text-white w-full h-full flex flex-row gap-3 items-center justify-center font-roboto">
       <div className="items-center justify-center w-[558px]">
         <h1 className="text-6xl tracking-[0.04em] font-normal mb-6">
           Transforme seu corpo e alcance seus objetivos. Sua jornada fitness
