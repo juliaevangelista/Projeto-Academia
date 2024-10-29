@@ -1,3 +1,4 @@
+import { HeroSection } from "@/components/home/sectionBeneficios";
 import { Navbar } from "@/components/home/navbar";
 
 export default function Home() {
@@ -5,6 +6,7 @@ export default function Home() {
     <div>
       <header>
         <Navbar/>
+        <HeroSection/>
       </header>
     </div>
   );
