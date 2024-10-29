@@ -1,7 +1,7 @@
 "use client";
 import { useState } from "react";
 
-export const SectionTreinos = () => {
+export const SectionTraining = () => {
   const content = [
     {
       image: "",

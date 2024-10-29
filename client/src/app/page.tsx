@@ -1,14 +1,16 @@
-import { SectionBeneficios } from "@/components/home/sectionBenefits";
+import { SectionBenefits } from "@/components/home/sectionBenefits";
 import { Navbar } from "@/components/home/navbar";
-import { SectionTreinos } from "@/components/home/sectionTraining";
+import { SectionTraining } from "@/components/home/sectionTraining";
+import { SectionInspiring } from "@/components/home/sectionInspiring";
 
 export default function Home() {
   return (
     <div>
       <header>
         <Navbar/>
-        <SectionBeneficios/>
-        <SectionTreinos/>
+        <SectionBenefits/>
+        <SectionTraining/>
+        <SectionInspiring/>
       </header>
     </div>
   );

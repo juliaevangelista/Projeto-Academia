@@ -1,4 +1,4 @@
-export const SectionBeneficios = () => {
+export const SectionBenefits = () => {
   return (
     <div className="flex flex-col md:flex-row items-center justify-center gap-8 md:gap-16 text-[#68686A] font-sans p-8 md:p-32">
       {/* DIV da imagem */}
