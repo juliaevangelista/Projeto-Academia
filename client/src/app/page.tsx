@@ -1,12 +1,14 @@
-import { HeroSection } from "@/components/home/sectionBeneficios";
+import { SectionBeneficios } from "@/components/home/sectionBeneficios";
 import { Navbar } from "@/components/home/navbar";
+import { SectionTreinos } from "@/components/home/sectionTreinos";
 
 export default function Home() {
   return (
     <div>
       <header>
         <Navbar/>
-        <HeroSection/>
+        <SectionBeneficios/>
+        <SectionTreinos/>
       </header>
     </div>
   );
