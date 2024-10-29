@@ -1,6 +1,6 @@
 export const SectionBenefits = () => {
   return (
-    <div className="flex flex-col md:flex-row items-center justify-center gap-8 md:gap-16 text-[#68686A] font-sans p-8 md:p-32">
+    <div className="flex flex-col md:flex-row items-start justify-center gap-8 md:gap-16 text-[#68686A] font-sans p-8 md:p-32">
       {/* DIV da imagem */}
       <div className="bg-[#68686A] w-full md:w-[530px] h-[320px] md:h-[640px] rounded-2xl flex items-center justify-center">
         aa

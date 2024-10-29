@@ -8,23 +8,23 @@ export const Navbar = () => {
         Leo & Cia Academia
       </Link>
       <nav className="flex justify-between items-center gap-[40px] h-[72px] px-8">
-        <Link href="#" className="">
+        <Link href="#section-video" className="">
           Inicio
         </Link>
-        <Link href="#" className="">
+        <Link href="#section-benefits" className="">
           Sobre Nós
         </Link>
-        <Link href="#" className="">
+        <Link href="#section-training" className="">
           Treinos Disponiveis
         </Link>
-        <Link href="#" className="">
+        <Link href="#section-inspiring" className="">
           Plano
         </Link>
-        <Link href="#" className="">
+        <Link href="#section-contact" className="">
           Contato
         </Link>
       </nav>
-      <button className="bg-slate-400 rounded-lg p-1 ml-[121.5px]">
+      <button className="bg-neutral-300 text-[#68686A] rounded-lg p-1 ml-[121.5px]">
         Junte-se a nós
       </button>
     </div>
