@@ -1,6 +1,6 @@
-import { SectionBeneficios } from "@/components/home/sectionBeneficios";
+import { SectionBeneficios } from "@/components/home/sectionBenefits";
 import { Navbar } from "@/components/home/navbar";
-import { SectionTreinos } from "@/components/home/sectionTreinos";
+import { SectionTreinos } from "@/components/home/sectionTraining";
 
 export default function Home() {
   return (
