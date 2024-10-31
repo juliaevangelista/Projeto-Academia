@@ -6,7 +6,7 @@ export const Footer = () => {
   return (
     <div className="flex flex-col md:flex-row w-full items-center justify-between text-base p-4 md:px-36">
       <Link href="#logo" className="font-bold text-2xl mb-4 md:mb-0">
-        Leo & Cia Academia
+        Academia
       </Link>
       <div className="hidden md:flex items-center gap-8 md:gap-10 h-[72px]">
         <Link href="#">About</Link>

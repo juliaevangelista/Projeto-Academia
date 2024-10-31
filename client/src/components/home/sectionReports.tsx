@@ -8,7 +8,7 @@ export const SectionReports = () => {
           Vozes Reais, Transformações Reais
         </h1>
         <p className="mt-6 text-base md:text-lg">
-          Veja como o Leo & Cia Academia ajudou nossos membros a atingir suas
+          Veja como o Academia ajudou nossos membros a atingir suas
           metas de condicionamento físico e transformar suas vidas por meio de
           treinamento especializado e comunidade de apoio.
         </p>

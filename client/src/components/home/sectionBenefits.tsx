@@ -7,7 +7,7 @@ export const SectionBenefits = () => {
       </div>
       <div className="w-full md:w-[530px]">
         <h1 className="text-3xl md:text-5xl mb-6 font-bold text-center md:text-left">
-          Por que escolher o Leo & Cia Fitness?
+          Por que escolher o Fitness?
         </h1>
         <h3 className="text-base md:text-xl mb-8 font-medium text-center md:text-left">
           Descubra os benefícios que nos diferenciam e impulsionam sua jornada

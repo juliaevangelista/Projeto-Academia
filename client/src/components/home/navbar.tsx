@@ -13,7 +13,7 @@ export const Navbar = () => {
   return (
     <div className="flex flex-row w-full items-center justify-between text-base p-4">
       <Link href="#logo" className="font-bold text-2xl">
-        Leo & Cia Academia
+        Academia
       </Link>
       <div className="hidden md:flex items-center gap-[40px] h-[72px] px-8">
         <Link href="#section-video">Inicio</Link>

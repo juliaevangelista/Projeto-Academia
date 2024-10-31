@@ -9,7 +9,7 @@ export const SectionVideo = () => {
           começa agora!
         </h1>
         <p className="text-xl font-medium">
-          Na Leo Cia Academia, somos mais que uma academia – somos seu caminho
+          Na Academia, somos mais que uma academia – somos seu caminho
           para resultados reais. Junte-se a nós e transforme-se!
         </p>
         <div className="flex flex-row gap-3 mt-[48px]">
